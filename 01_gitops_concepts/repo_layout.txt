@@ -1,0 +1,25 @@
+یک ساختار پیشنهادی برای یک Monorepo:
+
+my-app/
+├── src/
+│   ├── app/
+│   ├── tests/
+│   └── requirements.txt
+│
+├── deploy/
+│   ├── base/
+│   │   ├── deployment.yaml
+│   │   └── service.yaml
+│   │
+│   └── overlays/
+│       ├── staging/
+│       └── production/
+│
+├── .github/
+│   └── workflows/
+│       ├── ci.yml
+│       └── docker-build.yml
+│
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
