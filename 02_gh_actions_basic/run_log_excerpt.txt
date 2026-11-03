@@ -1,0 +1,20 @@
+Run echo "Repository: $GITHUB_REPOSITORY"
+Repository: nimarasouli18-rs/NIMARASOULI_GITOPS_01
+Branch: main
+Actor: nimarasouli18-rs
+Commit SHA: deff21e6e89814693669b5ded9e01be85422fec0
+Event: push
+Operating System:
+Linux runnervm7aw5e 7.0.0-1017-azure #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+Run echo "Running smoke test..."
+Running smoke test...
+README.md exists!
+Smoke test passed successfully!
+Post job cleanup.
+/usr/bin/git version
+git version 2.56.0
+Temporarily overriding HOME before making global git config changes
+Adding repository directory to the temporary git global config as a safe directory
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+Cleaning up orphan processes
+Warning: Node.js 20 is deprecated. actions/checkout@v4 is being forced to run on Node.js 24.
