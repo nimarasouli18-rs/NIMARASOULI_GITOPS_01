@@ -1,0 +1,12 @@
+PID: 7019 START: 1790955710352842240 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20261002T154056Z-P00001b6b/repo-20261002T154150Z-P00001b6b]
+
+PID: 7019 START: 1790955710357419008 :git command None ['git', 'var', 'GIT_DEFAULT_BRANCH'] with debug: : git var GIT_DEFAULT_BRANCH 1>| 2>|
+
+PID: 7019 END: 1790955710361802240 :git command None ['git', 'var', 'GIT_DEFAULT_BRANCH'] with debug: : git var GIT_DEFAULT_BRANCH 1>| 2>|
+
+PID: 7019 START: 1790955710397534208 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7019 END: 1790955710403145216 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7019 END: 1790955710403312896 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20261002T154056Z-P00001b6b/repo-20261002T154150Z-P00001b6b]
+
