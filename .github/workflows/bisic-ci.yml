@@ -1,0 +1,34 @@
+name: Basic CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  basic-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show environment
+        run: |
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "Branch: $GITHUB_REF_NAME"
+          echo "Actor: $GITHUB_ACTOR"
+          echo "Commit SHA: $GITHUB_SHA"
+          echo "Event: $GITHUB_EVENT_NAME"
+          echo "Operating System:"
+          uname -a
+
+      - name: Smoke test
+        run: |
+          echo "Running smoke test..."
+          test -f README.md
+          echo "README.md exists!"
+          echo "Smoke test passed successfully!"
