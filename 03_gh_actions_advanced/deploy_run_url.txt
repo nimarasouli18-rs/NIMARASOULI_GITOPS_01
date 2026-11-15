@@ -1,0 +1,264 @@
+Skip to content
+nimarasouli18-rs
+NIMARASOULI_GITOPS_01
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+All workflows
+Workflows
+Docker Build Practice
+Basic CI
+Matrix and Artifact Practice
+Secrets and Conditional Deploy
+
+Management
+Docker Build Practice
+docker-build.yml
+Filter workflow runs
+Search runs
+Workflow runs for Docker Build Practice
+4 workflow runs
+docker-build-yml that was in 03_gh_actions_advanced wad added
+completed successfully:
+Docker Build Practice
+#4:
+Commit
+ecf0fd2
+pushed
+by
+nimarasouli18-rs
+main
+2 minutes ago
+20s
+dockerfile added
+completed successfully:
+Docker Build Practice
+#3:
+Commit
+8d9912c
+pushed
+by
+nimarasouli18-rs
+main
+5 minutes ago
+20s
+docker build updated
+failed:
+Docker Build Practice
+#2:
+Commit
+f2e94ea
+pushed
+by
+nimarasouli18-rs
+main
+7 minutes ago
+25s
+docker build added
+failed:
+Docker Build Practice
+#1:
+Commit
+23d459b
+pushed
+by
+nimarasouli18-rs
+main
+12 minutes ago
+19s
+#################
+Skip to content
+nimarasouli18-rs
+NIMARASOULI_GITOPS_01
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+All workflows
+Workflows
+Docker Build Practice
+Basic CI
+Matrix and Artifact Practice
+Secrets and Conditional Deploy
+
+Management
+Matrix and Artifact Practice
+matrix-and-cache.yml
+Filter workflow runs
+Search runs
+Workflow runs for Matrix and Artifact Practice
+6 workflow runs
+docker-build-yml that was in 03_gh_actions_advanced wad added
+completed successfully:
+Matrix and Artifact Practice
+#6:
+Commit
+ecf0fd2
+pushed
+by
+nimarasouli18-rs
+main
+2 minutes ago
+18s
+dockerfile added
+completed successfully:
+Matrix and Artifact Practice
+#5:
+Commit
+8d9912c
+pushed
+by
+nimarasouli18-rs
+main
+5 minutes ago
+21s
+docker build updated
+completed successfully:
+Matrix and Artifact Practice
+#4:
+Commit
+f2e94ea
+pushed
+by
+nimarasouli18-rs
+main
+7 minutes ago
+20s
+docker build added
+completed successfully:
+Matrix and Artifact Practice
+#3:
+Commit
+23d459b
+pushed
+by
+nimarasouli18-rs
+main
+12 minutes ago
+24s
+secrets and deploy added
+completed successfully:
+Matrix and Artifact Practice
+#2:
+Commit
+398d4c5
+pushed
+by
+nimarasouli18-rs
+main
+16 minutes ago
+21s
+matric and cashe added
+completed successfully:
+Matrix and Artifact Practice
+#1:
+Commit
+57c15e0
+pushed
+by
+nimarasouli18-rs
+main
+Today at 9:19 AM
+21s
+#################
+Skip to content
+nimarasouli18-rs
+NIMARASOULI_GITOPS_01
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+All workflows
+Workflows
+Docker Build Practice
+Basic CI
+Matrix and Artifact Practice
+Secrets and Conditional Deploy
+
+Management
+Secrets and Conditional Deploy
+secrets-and-deploy.yml
+Filter workflow runs
+Search runs
+Workflow runs for Secrets and Conditional Deploy
+5 workflow runs
+docker-build-yml that was in 03_gh_actions_advanced wad added
+completed successfully:
+Secrets and Conditional Deploy
+#5:
+Commit
+ecf0fd2
+pushed
+by
+nimarasouli18-rs
+main
+3 minutes ago
+17s
+dockerfile added
+completed successfully:
+Secrets and Conditional Deploy
+#4:
+Commit
+8d9912c
+pushed
+by
+nimarasouli18-rs
+main
+6 minutes ago
+15s
+docker build updated
+completed successfully:
+Secrets and Conditional Deploy
+#3:
+Commit
+f2e94ea
+pushed
+by
+nimarasouli18-rs
+main
+8 minutes ago
+16s
+docker build added
+completed successfully:
+Secrets and Conditional Deploy
+#2:
+Commit
+23d459b
+pushed
+by
+nimarasouli18-rs
+main
+13 minutes ago
+17s
+secrets and deploy added
+completed successfully:
+Secrets and Conditional Deploy
+#1:
+Commit
+398d4c5
+pushed
+by
+nimarasouli18-rs
+main
+16 minutes ago
+22s
+
